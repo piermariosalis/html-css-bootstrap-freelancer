@@ -1,6 +1,14 @@
 body [class*="col-"] {
   height: 200px;
-  background-color: lightblue;
   border: 1px solid blue;
   text-align: center;
+}
+
+.nav, .footer{
+  background: #2c3e50;
+  margin-bottom: 0;
+}
+
+.fluid_color{
+  background: #1abc9c;
 }
